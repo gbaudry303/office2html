@@ -1,0 +1,32 @@
+{
+  "name": "office2html",
+  "version": "0.0.1",
+  "description": "convert office files to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbaudry303/office2html.git"
+  },
+  "keywords": [
+    "office",
+    "html",
+    "unoconv",
+    "libreoffice",
+    "docx",
+    "pptx",
+    "xlsx"
+  ],
+  "author": "Guillaume Baudry <gbaudry303@gmail.com> (http://www.undergroundhardware.com/)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/gbaudry303/office2html/issues"
+  },
+  "homepage": "https://github.com/gbaudry303/office2html",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
+}
